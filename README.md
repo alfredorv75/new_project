@@ -1,4 +1,4 @@
-# AI- Powered Advisor
+# Eco Energy
 
 AI-Powered Eco-Energy Advisor
 
