@@ -1,4 +1,4 @@
-# AI- Powered Project
+# AI- Powered Advisor
 
 AI-Powered Eco-Energy Advisor
 
